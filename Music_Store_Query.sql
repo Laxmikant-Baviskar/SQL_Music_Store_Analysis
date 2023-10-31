@@ -7,7 +7,6 @@ FROM employee
 ORDER BY levels DESC
 LIMIT 1
 
-
 /* Q2: Which countries have the most Invoices? */
 
 SELECT COUNT(*) AS c, billing_country 
