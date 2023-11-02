@@ -14,7 +14,6 @@ FROM invoice
 GROUP BY billing_country
 ORDER BY c DESC
 
-	
 
 /* Q3: What are top 3 values of total invoice? */
  
